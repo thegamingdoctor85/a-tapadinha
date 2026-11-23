@@ -70,3 +70,15 @@ Em cada número incluir separadamente:
 - YouTube: iframe embutido apenas se existir vídeo específico verificado e incorporação permitida; incluir URL alternativa.
 - Canal 11 ou outros portais: link direto ao jogo/clipe quando o embed não é permitido; não copiar/republicar vídeo nem contornar restrições.
 - A edição de 23/11 não possui ainda um link direto validado para um vídeo do golo Janico: NÃO inventar um ID ou URL. Canal oficial geral: https://www.youtube.com/@Canal11Oficial .
+
+## Revisão extraordinária da edição de 23/11/2026 (realizada em 23/11)
+
+- **Motivo:** recuperação de profundidade editorial; edição já existente de 23/11 ampliada sem tocar nas edições antigas.
+- **Taça:** dossiê de percurso Olímpico Montijo 4–0, Lagoa 4–1, Vizela 1–0, Casa Pia 1–0; próximo confronto Sporting–Atlético. Fonte: https://www.noticiasaominuto.com/desporto/3088012/tomba-gigantes-atletico-elimina-casa-pia-e-espera-por-sporting-ou-nao
+- **Entrevista:** Pedro Basto D'Oliveira após o Casa Pia; identidade da equipa, objetivo de top 4 e cautela para o Lusitano. Fonte: https://www.abola.pt/noticias/pedro-doliveira-ninguem-neste-grupo-quer-ficar-pela-liga-3-2026112115212240500
+- **Liga 3 A:** destaque Paredes/Leça/AD Marco 09/Fafe, com dados de 9 jornadas, sem confundir séries. Fonte: https://quemjoga.pt/classificacao/liga-3
+- **Arquivo adicional:** finais da Taça 1945/46 (Sporting 4–2 Atlético; 30/06/1946) e 1948/49 (Benfica 2–1 Atlético; 12/06/1949). Fontes: https://www.rtp.pt/noticias/taca-de-portugal/as-75-finais-e-o-historial-dos-vencedores_d833169 ; https://www.atleticocp.pt/pt/historia
+- **Figura biográfica adicional:** Henrique Ben David (n. 1926, Cabo Verde), oito épocas, 98 golos e seis chamadas à Seleção, segundo a história oficial. Fonte: https://www.atleticocp.pt/pt/historia
+- **Saúde em Foco ATUALIZADA:** alimentação em dia de jogo, hidratos de carbono, hidratação e recuperação, substituindo o texto repetido de isquiotibiais. Fontes: https://bjsm.bmj.com/content/55/8/416 e https://pubmed.ncbi.nlm.nih.gov/34527279/
+- **Mitos e Verdades na versão revista:** cãibras/magnésio e sono/8h (mantidos da correção prévia da edição), mais a falsa necessidade universal de suplementos e a inexistência de refeição universal pré-jogo. Evitar reutilização nos próximos números.
+- **Multimédia:** preservadas imagens de arquivo já presentes na edição; criados gráficos HTML/CSS originais para percurso da Taça, finais e nutrição. Fotografias contemporâneas de agência só ligadas à origem, sem reprodução não licenciada.
